@@ -289,7 +289,7 @@ def render(candidate: Candidate, times: Time, local_date) -> str:
 
     parts = [
         f"{SYMBOL[candidate.category]} {date_text}",
-        f"Tonight: {candidate.name} — {CATEGORY_LABEL[candidate.category]}",
+        f"{candidate.name} — {CATEGORY_LABEL[candidate.category]}",
         f"best around {time_text} UTC+8",
         f"{candidate.altitude:.0f}° high",
     ]
@@ -300,7 +300,7 @@ def render(candidate: Candidate, times: Time, local_date) -> str:
     if candidate.distance:
         parts.append(candidate.distance)
 
-    return " · ".join(parts)
+    return " • ".join(parts)
 
 
 def replace_readme_line(line: str) -> None:
