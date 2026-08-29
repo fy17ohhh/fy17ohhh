@@ -1,5 +1,5 @@
 ![alt text](src/img.png)
 
 <!-- DAILY_SKY_START -->
-<p align="center"><sub>◇ 29 Aug 2026 • Andromeda Galaxy · M31 — Galaxy • best around 00:30 UTC+8 • 68° high • 2.54 Mly away</sub></p>
+<p align="center"><sub>✺ 30 Aug 2026 • Ring Nebula · M57 — Cluster / Nebula • best around 20:30 UTC+8 • 83° high • ~2,300 ly away</sub></p>
 <!-- DAILY_SKY_END -->
