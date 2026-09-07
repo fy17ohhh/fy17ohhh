@@ -1,5 +1,5 @@
 ![alt text](src/img.png)
 
 <!-- DAILY_SKY_START -->
-<p align="center"><sub>✦ 07 Sep 2026 • Deneb — Star • best around 22:00 UTC+8 • 84° high • ~2,600 ly away</sub></p>
+<p align="center"><sub>● 08 Sep 2026 • Saturn — Planet • best around 00:30 UTC+8 • 48° high • 8.53 AU from Earth</sub></p>
 <!-- DAILY_SKY_END -->
