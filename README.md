@@ -1,5 +1,5 @@
 ![alt text](src/img.png)
 
 <!-- DAILY_SKY_START -->
-<p align="center"><sub>✧ 09 Sep 2026 • Cygnus — Constellation • best around 21:30 UTC+8 • 88° high</sub></p>
+<p align="center"><sub>◇ 10 Sep 2026 • Andromeda Galaxy · M31 — Galaxy • best around 00:30 UTC+8 • 77° high • 2.54 Mly away</sub></p>
 <!-- DAILY_SKY_END -->
