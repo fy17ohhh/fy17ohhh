@@ -1,5 +1,5 @@
 ![alt text](src/img.png)
 
 <!-- DAILY_SKY_START -->
-<p align="center"><sub>● 26 Sep 2026 • Saturn — Planet • best around 00:30 UTC+8 • 52° high • 8.44 AU from Earth</sub></p>
+<p align="center"><sub>✧ 27 Sep 2026 • Lyra — Constellation • best around 19:00 UTC+8 • 85° high</sub></p>
 <!-- DAILY_SKY_END -->
