@@ -1,5 +1,5 @@
 ![alt text](src/img.png)
 
 <!-- DAILY_SKY_START -->
-<p align="center"><sub>✺ 29 Sep 2026 • Ring Nebula · M57 — Cluster / Nebula • best around 19:00 UTC+8 • 82° high • ~2,300 ly away</sub></p>
+<p align="center"><sub>☾ 30 Sep 2026 • Moon — Moon • best around 00:30 UTC+8 • 51° high • 80% illuminated • 365,000 km away</sub></p>
 <!-- DAILY_SKY_END -->
