@@ -1,5 +1,5 @@
 ![alt text](src/img.png)
 
 <!-- DAILY_SKY_START -->
-<p align="center"><sub>☾ 30 Sep 2026 • Moon — Moon • best around 00:30 UTC+8 • 51° high • 80% illuminated • 365,000 km away</sub></p>
+<p align="center"><sub>✦ 01 Oct 2026 • Deneb — Star • best around 20:30 UTC+8 • 84° high • ~2,600 ly away</sub></p>
 <!-- DAILY_SKY_END -->
