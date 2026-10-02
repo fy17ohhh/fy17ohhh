@@ -1,5 +1,5 @@
 ![alt text](src/img.png)
 
 <!-- DAILY_SKY_START -->
-<p align="center"><sub>● 02 Oct 2026 • Saturn — Planet • best around 00:30 UTC+8 • 52° high • 8.43 AU from Earth</sub></p>
+<p align="center"><sub>✧ 03 Oct 2026 • Cygnus — Constellation • best around 20:00 UTC+8 • 88° high</sub></p>
 <!-- DAILY_SKY_END -->
