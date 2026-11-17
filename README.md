@@ -1,5 +1,5 @@
 ![alt text](src/img.png)
 
 <!-- DAILY_SKY_START -->
-<p align="center"><sub>✺ 16 Nov 2026 • Double Cluster — Cluster / Nebula • best around 23:00 UTC+8 • 73° high • ~7,500 ly away</sub></p>
+<p align="center"><sub>☾ 17 Nov 2026 • Moon — Moon • best around 18:30 UTC+8 • 36° high • 49% illuminated • 394,000 km away</sub></p>
 <!-- DAILY_SKY_END -->
