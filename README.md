@@ -1,5 +1,5 @@
 ![alt text](src/img.png)
 
 <!-- DAILY_SKY_START -->
-<p align="center"><sub>◇ 21 Nov 2026 • Andromeda Galaxy · M31 — Galaxy • best around 21:00 UTC+8 • 88° high • 2.54 Mly away</sub></p>
+<p align="center"><sub>✺ 22 Nov 2026 • Pleiades · M45 — Cluster / Nebula • best around 00:00 UTC+8 • 74° high • 444 ly away</sub></p>
 <!-- DAILY_SKY_END -->
