@@ -1,5 +1,5 @@
 ![alt text](src/img.png)
 
 <!-- DAILY_SKY_START -->
-<p align="center"><sub>✺ 22 Nov 2026 • Pleiades · M45 — Cluster / Nebula • best around 00:00 UTC+8 • 74° high • 444 ly away</sub></p>
+<p align="center"><sub>☾ 23 Nov 2026 • Moon — Moon • best around 23:00 UTC+8 • 72° high • 98% illuminated • 358,000 km away</sub></p>
 <!-- DAILY_SKY_END -->
