@@ -1,5 +1,5 @@
 ![alt text](src/img.png)
 
 <!-- DAILY_SKY_START -->
-<p align="center"><sub>✧ 26 Nov 2026 • Pegasus — Constellation • best around 18:30 UTC+8 • 70° high</sub></p>
+<p align="center"><sub>◇ 27 Nov 2026 • Andromeda Galaxy · M31 — Galaxy • best around 20:30 UTC+8 • 88° high • 2.54 Mly away</sub></p>
 <!-- DAILY_SKY_END -->
